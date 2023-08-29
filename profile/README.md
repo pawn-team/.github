@@ -1,6 +1,6 @@
 # Pawn-Wiki
 
-![Pawn-Wiki Logo](https://example.com/pawn-wiki-logo.png)
+![Pawn-Wiki Logo](https://avatars.githubusercontent.com/u/143467527?s=200&v=4)
 
 Bem-vindo ao Pawn-Wiki, uma organização dedicada a fornecer recursos e informações abrangentes sobre a linguagem Pawn. Aqui você encontrará documentação detalhada sobre diretivas, variáveis, funções públicas, controle de fluxo, looping, tratamento de erros e muito mais.
 
